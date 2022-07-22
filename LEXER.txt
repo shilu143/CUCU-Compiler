@@ -1,0 +1,15 @@
+TYPE : int
+IDENTIFIER : y
+ASSIGN : =
+NUM : 5
+SEMI : ;
+TYPE : int
+IDENTIFIER : main
+OBRACE : (
+EBRACE : )
+OBRACE : {
+TYPE : int
+IDENTIFIER : a
+ASSIGN : =
+NUM : 5
+EBRACE : }
