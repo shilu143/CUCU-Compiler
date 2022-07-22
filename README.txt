@@ -13,4 +13,4 @@ How to run and compile the code
     ASSUMPTION:
 
     1. for,do while loop are not defined
-    2. arithmetic operation of function is not working
+ 
